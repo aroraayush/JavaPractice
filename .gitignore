@@ -7,6 +7,9 @@
 
 # Log file
 *.log
+*.DS_Store
+src/.DS_Store
+.gitattributes
 
 # BlueJ files
 *.ctxt
